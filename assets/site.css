@@ -329,21 +329,14 @@ p {
     }
 }
 
-/* Make the JMP title larger and bolder */
 .featured-paper-title {
-    font-size: 1.6em;
-    font-weight: 600;
-    line-height: 1.3;
-    margin-bottom: 0.3em;
-    color: #333;
+    font-size: 1.5em !important;
+    color: #2c2c2c !important;
 }
 
-/* Make the abstract smaller with more breathing room */
 .featured-paper-abstract {
-    font-size: 0.9em;
-    line-height: 1.7;
-    color: #555;
-    margin-top: 0.8em;
+    font-size: 0.88em;
+    color: #666;
 }
 
 /* Style the section header like the reference image */
