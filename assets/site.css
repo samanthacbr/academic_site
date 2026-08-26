@@ -328,3 +328,38 @@ p {
         line-height: 1.8;
     }
 }
+
+/* Make the JMP title larger and bolder */
+.featured-paper-title {
+    font-size: 1.6em;
+    font-weight: 600;
+    line-height: 1.3;
+    margin-bottom: 0.3em;
+    color: #333;
+}
+
+/* Make the abstract smaller with more breathing room */
+.featured-paper-abstract {
+    font-size: 0.9em;
+    line-height: 1.7;
+    color: #555;
+    margin-top: 0.8em;
+}
+
+/* Style the section header like the reference image */
+h2 {
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: #888;
+    font-weight: 600;
+    margin-bottom: 0.5em;
+}
+
+/* Author line */
+.featured-paper-authors {
+    font-size: 0.95em;
+    font-style: italic;
+    color: #8B7355;
+    margin-top: 0.2em;
+}
